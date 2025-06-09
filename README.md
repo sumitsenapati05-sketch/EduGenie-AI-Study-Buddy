@@ -96,23 +96,6 @@ StudySage/
 
 ### 🖥️ CLI Mode
 
-### ⚙️ Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/Sahaj33-op/StudySage.git
-   cd StudySage
-   ```
-
-2. **Install Python Dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
 Run the CLI interface:
 
 ```bash
