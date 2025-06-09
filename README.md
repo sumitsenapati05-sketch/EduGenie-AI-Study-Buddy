@@ -1,7 +1,7 @@
 ⢾⣉⡓⠀⠤⣶⠤⠀⣤⠀⣤⠀⢀⣀⣶⠀⣤⠀⣤⠀⠀⠀⠀⠀⢾⣉⡓⠀⠠⠤⣄⠀⣠⠤⣤⠀⣠⠤⣄
 ⠲⠤⠟⠀⠀⠻⠤⠀⠻⠤⠿⠀⠻⠤⠿⠀⣙⣲⠟⠀⠀⠀⠀⠀⠲⠤⠟⠀⠺⠭⠿⠀⣙⣒⡿⠀⠻⠭⠍
    
-   Offline AI Note Assistant
+   Offline AI Note Assistant:
 📄 Summary | 🧪 Quiz | 🖼 OCR | 📤 PDF Export
 
 StudySage is a Python tool that takes your lecture notes (text or markdown) and summarizes them using offline AI models — no internet required!
