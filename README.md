@@ -26,6 +26,7 @@
 * **Extract** text from images via OCR (handwritten or printed)
 * **Export** summaries to PDF or text files
 * **Use** through both a sleek CLI or a modern desktop GUI
+* **BIG THANKS TO HUGGINGFACE MODEL CREATOR: [sshleifer/distilbart-cnn-12-6](https://huggingface.co/sshleifer/distilbart-cnn-12-6)**
 
 All processing runs locally—no internet required once dependencies are installed.
 
