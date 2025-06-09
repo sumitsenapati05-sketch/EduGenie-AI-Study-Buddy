@@ -17,3 +17,8 @@ StudySage is a Python tool that takes your lecture notes (text or markdown) and 
 git clone https://github.com/yourusername/StudySage.git
 cd StudySage
 pip install -r requirements.txt
+
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Offline](https://img.shields.io/badge/Offline%20AI-Yes-green)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
