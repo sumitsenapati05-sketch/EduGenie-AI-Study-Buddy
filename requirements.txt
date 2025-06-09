@@ -1,0 +1,10 @@
+transformers
+torch
+nltk
+pyfiglet
+colorama
+fpdf
+fpdf2
+pillow
+pytesseract
+tesseract
