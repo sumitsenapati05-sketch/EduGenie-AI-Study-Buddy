@@ -7,6 +7,7 @@ from ocr_reader import extract_text_from_image
 from pyfiglet import figlet_format
 from colorama import Fore, Style, init
 from datetime import datetime
+from pathlib import Path
 
 OUTPUT_DIR = Path("output")
 OUTPUT_DIR.mkdir(exist_ok=True)
