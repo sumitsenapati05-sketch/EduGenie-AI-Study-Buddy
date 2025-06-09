@@ -19,6 +19,6 @@ cd StudySage
 pip install -r requirements.txt
 ```
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Offline](https://img.shields.io/badge/Offline%20AI-Yes-green)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
