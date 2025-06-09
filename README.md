@@ -92,7 +92,7 @@ StudySage/
 
 ---
 
-## 🚀 Usage
+## 🚀 Windows Usage
 
 ### 🖥️ CLI Mode
 
@@ -144,7 +144,123 @@ pyinstaller --onefile --windowed main.py
 
 Your `.exe` will appear in `dist/`.
 
+
 ---
+
+## 🐧 Linux & macOS Setup
+
+Follow these steps to install and run **StudySage** on Linux or macOS.
+
+---
+
+### 📦 Prerequisites
+
+1. **Python 3.8 or higher**
+
+   ```bash
+   python3 --version
+   ```
+
+2. **pip** (Python package manager)
+
+   * Install if missing:
+
+     ```bash
+     sudo apt install python3-pip         # Ubuntu/Debian  
+     brew install python3                 # macOS with Homebrew
+     ```
+
+3. **Tesseract OCR** (for image-to-text OCR feature)
+
+   * Ubuntu/Debian:
+
+     ```bash
+     sudo apt update
+     sudo apt install tesseract-ocr
+     ```
+   * macOS (using Homebrew):
+
+     ```bash
+     brew install tesseract
+     ```
+
+---
+
+### 🧪 Recommended: Create a Virtual Environment
+
+1. **Install `virtualenv` (if not already installed)**
+
+   ```bash
+   pip3 install virtualenv
+   ```
+
+2. **Create the virtual environment**
+
+   ```bash
+   virtualenv venv
+   ```
+
+3. **Activate the environment**
+
+   * On **Linux/macOS**:
+
+     ```bash
+     source venv/bin/activate
+     ```
+
+4. (When done, you can deactivate it with `deactivate`)
+
+---
+
+### ⚙️ Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/Sahaj33-op/StudySage.git
+   cd StudySage
+   ```
+
+2. **Install Python Dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+
+### 🚀 Run the App
+
+* **CLI version**:
+
+  ```bash
+  python main.py
+  ```
+
+* **GUI version (if using `customtkinter`)**:
+
+  ```bash
+  python gui.py
+  ```
+
+---
+
+### 📝 Notes
+
+* Make sure `tesseract` is in your system’s `PATH`:
+
+  ```bash
+  tesseract --version
+  ```
+
+* If you run into cache or font issues, try:
+
+  ```bash
+  python main.py --no-cache-dir
+  ```
+
+---
+
 
 ## 🤝 Contributing
 
