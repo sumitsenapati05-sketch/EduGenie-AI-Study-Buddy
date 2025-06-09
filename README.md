@@ -1,4 +1,12 @@
-# 🧠 StudySage – Offline Note Summarizer for Students
+
+   ______          __       ____             
+  / __/ /___ _____/ /_ __  / __/__ ____ ____ 
+ _\ \/ __/ // / _  / // / _\ \/ _ `/ _ `/ -_)
+/___/\__/\_,_/\_,_/\_, / /___/\_,_/\_, /\__/ 
+                  /___/           /___/      
+
+        Offline AI Note Assistant
+📄 Summary | 🧪 Quiz | 🖼 OCR | 📤 PDF Export
 
 StudySage is a Python tool that takes your lecture notes (text or markdown) and summarizes them using offline AI models — no internet required!
 
