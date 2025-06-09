@@ -13,11 +13,11 @@ StudySage is a Python tool that takes your lecture notes (text or markdown) and 
 - CLI-based, fast, and beginner-friendly
 
 ## 🔧 Setup
-```bash
+```
 git clone https://github.com/yourusername/StudySage.git
 cd StudySage
 pip install -r requirements.txt
-
+```
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Offline](https://img.shields.io/badge/Offline%20AI-Yes-green)
