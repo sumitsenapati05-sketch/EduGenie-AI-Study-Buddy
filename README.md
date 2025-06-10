@@ -75,7 +75,7 @@ StudySage/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Sahaj33-op/StudySage.git
+   git clone https://github.com/Sahaj33-op/StudySage-Offline-AI-Note-Assistant.git
    cd StudySage
    ```
 
@@ -221,7 +221,7 @@ Follow these steps to install and run **StudySage** on Linux or macOS.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Sahaj33-op/StudySage.git
+   git clone https://github.com/Sahaj33-op/StudySage-Offline-AI-Note-Assistant.git
    cd StudySage
    ```
 
