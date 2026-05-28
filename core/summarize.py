@@ -67,7 +67,7 @@ def get_groq_api_key_from_streamlit() -> str:
         api_key = get_groq_api_key_from_streamlit()
 
     Add to .streamlit/secrets.toml:
-        GROQ_API_KEY = "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"
+        GROQ_API_KEY = ""
     """
     try:
         import streamlit as st          # only imported if Streamlit is running
@@ -631,7 +631,7 @@ def summarize_text(
 
     Streamlit secrets (.streamlit/secrets.toml)
     -------------------------------------------
-    GROQ_API_KEY = "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"
+    GROQ_API_KEY = ""
     """
     ok, msg = _within_limits(text)
     if not ok:

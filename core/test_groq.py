@@ -6,7 +6,7 @@ result = summarize_text(
     max_length=80,
     config={
         "mode": "groq",
-        "api_key": "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"  
+        "api_key": ""  
     },
 )
 
