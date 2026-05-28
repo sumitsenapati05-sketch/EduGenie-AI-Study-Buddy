@@ -1,14 +1,7 @@
 streamlit
-transformers
-torch
 pytesseract
 Pillow
 pymupdf
 reportlab
-nltk
-colorama
-pyfiglet
 requests
-customtkinter
-opencv-python
 langdetect
