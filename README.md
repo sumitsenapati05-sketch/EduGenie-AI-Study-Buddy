@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 StudySage — Offline/Online AI Note Assistant
 
 Transform notes, PDFs, and screenshots into crisp summaries and smart MCQs. Use it as a web app, Telegram bot, desktop GUI, or CLI — all powered by the same core engine.
@@ -155,3 +156,7 @@ pytest
 
 - MIT — see [LICENSE](LICENSE).
 
+=======
+# EduGenie-AI-Study-Buddy
+AI Powered Educational Study Assistant using NLP, OCR and Groq LLM
+>>>>>>> 35c34eb09303678e465c2d80e083ff297e90c3e8
